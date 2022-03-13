@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Neilyn-Parnell
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Information and Communication Technology
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Apache Netbeans
 - 📫 How to reach me 218132425@mycput.ac.za
 
 <!---

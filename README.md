@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neilyn-Parnell
-- 🌱 I’m currently learning Information and Communication Technology
-- 💞️ I’m looking to collaborate on Apache Netbeans
-- 📫 How to reach me 218132425@mycput.ac.za
+- 🌱 I’m currently an ICT Security Administrator
+- 💞️ I’m looking to collaborate on project to upskill myself.
+- 📫 How to reach me neilynparnell@gmail.com
 
 <!---
 Neilyn-Parnell/Neilyn-Parnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
